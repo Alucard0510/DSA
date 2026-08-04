@@ -1,3 +1,3 @@
 # Binary Search
 
-This folder contains my implementations and practice problems related to arrays.
+This folder contains my implementations and practice problems related to binary search.
